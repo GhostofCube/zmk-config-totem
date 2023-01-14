@@ -63,7 +63,7 @@ label= "BASE"                              ;
 
  bindings = <
                 &kp C_VOL_UP &kp W &bt BT_CLR
-                &kp C_VOL_DN &kp G &kp J 
+                &kp C_VOL_DN &kp G &kp EXCL 
                 
                         >;
                 };
