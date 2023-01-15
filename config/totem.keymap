@@ -62,7 +62,7 @@ label= "BASE"                              ;
 // ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
  bindings = <
-                &kp C_VOL_UP &kp W &bt BT_CLR
+                &kp C_VOL_UP &out OUT_TOG &bt BT_CLR
                 &kp C_VOL_DN &kp G &kp EXCL 
                 
                         >;
